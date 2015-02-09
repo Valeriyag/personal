@@ -5,5 +5,8 @@ new file, second branch
 >>>>>>> origin/new-branch
 
 Second attempt branch / merge
+<<<<<<< HEAD
 New merging
 
+=======
+>>>>>>> origin/branch2
