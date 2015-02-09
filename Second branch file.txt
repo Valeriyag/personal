@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file, second branch, back to first branch
+=======
+new file, second branch
+>>>>>>> origin/new-branch
